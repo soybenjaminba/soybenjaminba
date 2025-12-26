@@ -1,0 +1,30 @@
+baseURL = "https://soybenjaminba.com/"
+languageCode = "es-mx"
+title = "Benjamin Barragán"
+theme = "PaperMod"
+
+# Esta es la nueva sintaxis que pide Hugo v0.153+
+[pagination]
+  pagerSize = 5
+
+[params]
+  defaultTheme = "auto"
+  description = "Blog de economía y finanzas."
+  
+  [params.homeInfoParams]
+    Title = "Hola, soy Benjamin"
+    Content = "Economista. Estudiante de finanzas. Inversionista."
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/tu-usuario"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/tu-usuario"
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 10
