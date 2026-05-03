@@ -1,0 +1,22 @@
+locale = "es-MX"
+label = "Español"
+weight = 1
+title = "Benjamín Barragán"
+
+[params]
+  displayName = "ES"
+  isoCode = "es"
+  rtl = false
+  dateFormat = "2 de January, 2006"
+  description = "Economista. Estudiante de finanzas. Inversionista."
+
+[params.author]
+  name = "Benjamín Barragán"
+  image = "img/profile.jpg"
+  headline = "Economista · Finanzas · Inversiones"
+  bio = "Escribo sobre economía, finanzas personales e inversión. Creo que entender el dinero es la habilidad más subestimada del siglo XXI."
+  links = [
+    { linkedin = "https://linkedin.com/in/soybenjaminba" },
+    { github = "https://github.com/soybenjaminba" },
+    { email = "mailto:soybenjaminba@gmail.com" },
+  ]
