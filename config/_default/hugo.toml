@@ -23,5 +23,9 @@ buildFuture = false
   filename = "sitemap.xml"
   priority = 0.5
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-F3FXMYS08Z"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
