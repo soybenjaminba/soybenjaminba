@@ -14,86 +14,7 @@ En México esa mano está atada. La cuenta es brutalmente sencilla: en 2025, la 
 
 Hablar de Aghion sin hablar de eso es hablar al aire.
 
-<div style="margin:36px 0;">
-<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto;background:#ffffff;border-radius:8px;padding:8px;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;">
-<rect width="720" height="300" fill="#ffffff"/>
-
-<!-- Header -->
-<text x="20" y="22" style="font-size:9px;letter-spacing:2px;fill:#9ca3af;text-transform:uppercase">FIGURA 1</text>
-<text x="20" y="40" style="font-size:14.5px;font-weight:700;fill:#111827">Anatomía del peso federal mexicano, 2025</text>
-<text x="20" y="56" style="font-size:10.5px;fill:#6b7280;font-style:italic">Cómo se distribuye cada punto porcentual del PIB en el presupuesto federal.</text>
-<text x="20" y="69" style="font-size:10.5px;fill:#6b7280;font-style:italic">El espacio para política flexible se ha reducido a un <tspan font-weight="600" font-style="italic">sliver</tspan>.</text>
-
-<line x1="20" y1="79" x2="700" y2="79" stroke="#e5e7eb" stroke-width="0.5"/>
-
-<!-- ROW 1: INGRESOS -->
-<text x="122" y="100" text-anchor="end" style="font-size:10px;fill:#6b7280">Ingresos</text>
-<text x="122" y="114" text-anchor="end" style="font-size:14px;font-weight:700;fill:#111827">22.5%</text>
-<text x="122" y="124" text-anchor="end" style="font-size:9px;fill:#9ca3af">PIB</text>
-
-<rect x="130" y="91" width="560" height="20" fill="#9ca3af" rx="1"/>
-<text x="130" y="126" style="font-size:9.5px;fill:#9ca3af;font-style:italic">Ingresos tributarios 15.1%  +  petroleros 2.7%  +  no tributarios 4.7%</text>
-
-<line x1="20" y1="138" x2="700" y2="138" stroke="#e5e7eb" stroke-width="0.5"/>
-
-<!-- ROW 2: GASTO RÍGIDO -->
-<text x="122" y="158" text-anchor="end" style="font-size:10px;fill:#6b7280">Gasto rígido</text>
-<text x="122" y="172" text-anchor="end" style="font-size:14px;font-weight:700;fill:#111827">20.8%</text>
-<text x="122" y="182" text-anchor="end" style="font-size:9px;fill:#9ca3af">PIB</text>
-
-<!-- Segments: bar y=149, h=20 -->
-<!-- 1. Pensiones 6.1%: x=130, w=152 -->
-<rect x="130" y="149" width="152" height="20" fill="#1e3a5f" rx="1"/>
-<text x="206" y="163" text-anchor="middle" style="font-size:10.5px;font-weight:700;fill:#ffffff">6.1</text>
-
-<!-- 2. Costo de deuda 4.4%: x=282, w=110 -->
-<rect x="283" y="149" width="109" height="20" fill="#374151" rx="1"/>
-<text x="337" y="163" text-anchor="middle" style="font-size:10.5px;font-weight:700;fill:#ffffff">4.4</text>
-
-<!-- 3. Ramo 28 3.8%: x=392, w=95 -->
-<rect x="393" y="149" width="94" height="20" fill="#6b7280" rx="1"/>
-<text x="440" y="163" text-anchor="middle" style="font-size:10.5px;font-weight:700;fill:#ffffff">3.8</text>
-
-<!-- 4. Ramo 33 3.0%: x=487, w=74 -->
-<rect x="488" y="149" width="73" height="20" fill="#9ca3af" rx="1"/>
-<text x="524" y="163" text-anchor="middle" style="font-size:10.5px;font-weight:700;fill:#374151">3.0</text>
-
-<!-- 5. Operación federal 3.5%: x=561, w=87 -->
-<rect x="562" y="149" width="86" height="20" fill="#d1d5db" rx="1"/>
-<text x="605" y="163" text-anchor="middle" style="font-size:10.5px;font-weight:700;fill:#374151">3.5</text>
-
-<!-- 6. Inversión libre 1.7%: x=648, w=42 — the sliver -->
-<rect x="649" y="149" width="41" height="20" fill="#9b1c1c" rx="1"/>
-<text x="669" y="163" text-anchor="middle" style="font-size:10px;font-weight:700;fill:#ffffff">1.7</text>
-
-<!-- Segment labels below bar -->
-<text x="206" y="185" text-anchor="middle" style="font-size:9.5px;fill:#374151">Pensiones</text>
-
-<text x="337" y="185" text-anchor="middle" style="font-size:9.5px;fill:#374151">Costo</text>
-<text x="337" y="197" text-anchor="middle" style="font-size:9.5px;fill:#374151">de deuda</text>
-
-<text x="440" y="185" text-anchor="middle" style="font-size:9.5px;fill:#374151">Ramo 28</text>
-<text x="440" y="197" text-anchor="middle" style="font-size:8.5px;fill:#9ca3af;font-style:italic">participaciones</text>
-
-<text x="524" y="185" text-anchor="middle" style="font-size:9.5px;fill:#374151">Ramo 33</text>
-<text x="524" y="197" text-anchor="middle" style="font-size:8.5px;fill:#9ca3af;font-style:italic">aportaciones</text>
-
-<text x="605" y="185" text-anchor="middle" style="font-size:9.5px;fill:#374151">Operación</text>
-<text x="605" y="197" text-anchor="middle" style="font-size:9.5px;fill:#374151">federal</text>
-
-<text x="669" y="185" text-anchor="middle" style="font-size:9px;font-weight:700;fill:#9b1c1c">Inversión</text>
-<text x="669" y="197" text-anchor="middle" style="font-size:9px;font-weight:700;fill:#9b1c1c">libre</text>
-
-<!-- Source -->
-<line x1="20" y1="218" x2="700" y2="218" stroke="#e5e7eb" stroke-width="0.5"/>
-<text x="20" y="232" style="font-size:9px;fill:#9ca3af;font-style:italic">Fuente: SHCP, Informe Trimestral 3T-2025; CIEP, Implicaciones del Paquete Económico 2025; Comunicado SHCP 59/2025.</text>
-<text x="20" y="245" style="font-size:9px;fill:#9ca3af;font-style:italic">Cifras en % del PIB. </text>
-<text x="83" y="245" style="font-size:9px;fill:#9b1c1c;font-style:italic">El segmento rojo es el espacio que queda para que el Estado actúe como "inversor":</text>
-<text x="20" y="258" style="font-size:9px;fill:#9b1c1c;font-style:italic">ciencia básica, infraestructura logística, recapacitación laboral, política industrial.</text>
-</svg>
-</div>
-
----
+<div style="margin:32px 0;"><svg viewBox="0 0 720 295" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto;background:#ffffff;border-radius:8px;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;"><rect width="720" height="295" fill="#ffffff"/><text x="20" y="22" style="font-size:9px;letter-spacing:2px;fill:#9ca3af">FIGURA 1</text><text x="20" y="40" style="font-size:14.5px;font-weight:700;fill:#111827">Anatomía del peso federal mexicano, 2025</text><text x="20" y="56" style="font-size:10.5px;fill:#6b7280;font-style:italic">Cómo se distribuye cada punto porcentual del PIB en el presupuesto federal.</text><text x="20" y="69" style="font-size:10.5px;fill:#6b7280;font-style:italic">El espacio para política flexible se ha reducido a un sliver.</text><line x1="20" y1="79" x2="700" y2="79" stroke="#e5e7eb" stroke-width="0.5"/><text x="122" y="100" text-anchor="end" style="font-size:10px;fill:#6b7280">Ingresos</text><text x="122" y="114" text-anchor="end" style="font-size:14px;font-weight:700;fill:#111827">22.5%</text><text x="122" y="124" text-anchor="end" style="font-size:9px;fill:#9ca3af">PIB</text><rect x="130" y="91" width="560" height="20" fill="#9ca3af" rx="1"/><text x="130" y="126" style="font-size:9.5px;fill:#9ca3af;font-style:italic">Ingresos tributarios 15.1%  +  petroleros 2.7%  +  no tributarios 4.7%</text><line x1="20" y1="138" x2="700" y2="138" stroke="#e5e7eb" stroke-width="0.5"/><text x="122" y="158" text-anchor="end" style="font-size:10px;fill:#6b7280">Gasto rígido</text><text x="122" y="172" text-anchor="end" style="font-size:14px;font-weight:700;fill:#111827">20.8%</text><text x="122" y="182" text-anchor="end" style="font-size:9px;fill:#9ca3af">PIB</text><rect x="130" y="149" width="152" height="20" fill="#1e3a5f" rx="1"/><text x="206" y="163" text-anchor="middle" style="font-size:10.5px;font-weight:700;fill:#ffffff">6.1</text><rect x="283" y="149" width="109" height="20" fill="#374151" rx="1"/><text x="337" y="163" text-anchor="middle" style="font-size:10.5px;font-weight:700;fill:#ffffff">4.4</text><rect x="393" y="149" width="94" height="20" fill="#6b7280" rx="1"/><text x="440" y="163" text-anchor="middle" style="font-size:10.5px;font-weight:700;fill:#ffffff">3.8</text><rect x="488" y="149" width="73" height="20" fill="#9ca3af" rx="1"/><text x="524" y="163" text-anchor="middle" style="font-size:10.5px;font-weight:700;fill:#374151">3.0</text><rect x="562" y="149" width="86" height="20" fill="#d1d5db" rx="1"/><text x="605" y="163" text-anchor="middle" style="font-size:10.5px;font-weight:700;fill:#374151">3.5</text><rect x="649" y="149" width="41" height="20" fill="#9b1c1c" rx="1"/><text x="669" y="163" text-anchor="middle" style="font-size:10px;font-weight:700;fill:#ffffff">1.7</text><text x="206" y="185" text-anchor="middle" style="font-size:9.5px;fill:#374151">Pensiones</text><text x="337" y="185" text-anchor="middle" style="font-size:9.5px;fill:#374151">Costo</text><text x="337" y="197" text-anchor="middle" style="font-size:9.5px;fill:#374151">de deuda</text><text x="440" y="185" text-anchor="middle" style="font-size:9.5px;fill:#374151">Ramo 28</text><text x="440" y="197" text-anchor="middle" style="font-size:8.5px;fill:#9ca3af;font-style:italic">participaciones</text><text x="524" y="185" text-anchor="middle" style="font-size:9.5px;fill:#374151">Ramo 33</text><text x="524" y="197" text-anchor="middle" style="font-size:8.5px;fill:#9ca3af;font-style:italic">aportaciones</text><text x="605" y="185" text-anchor="middle" style="font-size:9.5px;fill:#374151">Operación</text><text x="605" y="197" text-anchor="middle" style="font-size:9.5px;fill:#374151">federal</text><text x="669" y="185" text-anchor="middle" style="font-size:9px;font-weight:700;fill:#9b1c1c">Inversión</text><text x="669" y="197" text-anchor="middle" style="font-size:9px;font-weight:700;fill:#9b1c1c">libre</text><line x1="20" y1="215" x2="700" y2="215" stroke="#e5e7eb" stroke-width="0.5"/><text x="20" y="229" style="font-size:9px;fill:#9ca3af;font-style:italic">Fuente: SHCP, Informe Trimestral 3T-2025; CIEP, Implicaciones del Paquete Económico 2025; Comunicado SHCP 59/2025.</text><text x="20" y="242" style="font-size:9px;fill:#9ca3af;font-style:italic">Cifras en % del PIB. </text><text x="83" y="242" style="font-size:9px;fill:#9b1c1c;font-style:italic">El segmento rojo es el espacio que queda para que el Estado actúe como "inversor":</text><text x="20" y="255" style="font-size:9px;fill:#9b1c1c;font-style:italic">ciencia básica, infraestructura logística, recapacitación laboral, política industrial.</text></svg></div>
 
 ## 1. *Crowding out*: el Estado como competidor desleal del capital privado
 
@@ -165,65 +86,49 @@ Mientras no se haga, la destrucción creativa seguirá siendo un concepto import
 Ajusta las dos variables de mayor crecimiento y observa cuánto queda para inversión pública en innovación.
 
 <div style="border:1px solid #e5e7eb;border-radius:10px;padding:24px;margin:28px 0;background:#fafafa;font-family:system-ui,-apple-system,sans-serif;">
-  <div style="font-size:13px;font-weight:700;color:#111827;margin-bottom:4px;">Simulador · Espacio fiscal para inversión pública</div>
-  <div style="font-size:11px;color:#9ca3af;margin-bottom:20px;">Ingresos fijos: 22.5% PIB &nbsp;·&nbsp; Ramos 28+33 + Operación: 10.3% PIB (constante)</div>
-
-  <div style="margin-bottom:14px;">
-    <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
-      <label style="font-size:11px;color:#6b7280;">Gasto en pensiones</label>
-      <strong id="pens-val" style="font-size:11px;color:#1e3a5f;">6.1% PIB</strong>
-    </div>
-    <input type="range" id="pensiones" min="3.0" max="10.0" step="0.1" value="6.1"
-           style="width:100%;accent-color:#1e3a5f;">
-  </div>
-
-  <div style="margin-bottom:20px;">
-    <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
-      <label style="font-size:11px;color:#6b7280;">Costo financiero de la deuda</label>
-      <strong id="deuda-val" style="font-size:11px;color:#374151;">4.4% PIB</strong>
-    </div>
-    <input type="range" id="deuda" min="1.0" max="8.0" step="0.1" value="4.4"
-           style="width:100%;accent-color:#374151;">
-  </div>
-
-  <div style="background:#ffffff;border:1px solid #e5e7eb;border-radius:6px;padding:14px;">
-    <div style="font-size:10px;color:#9ca3af;margin-bottom:8px;">Distribución del presupuesto · % del PIB</div>
-    <div style="position:relative;height:26px;border-radius:4px;overflow:hidden;background:#f3f4f6;">
-      <div id="bar-rigid" style="position:absolute;left:0;top:0;height:100%;background:#374151;transition:width 0.15s ease;"></div>
-      <div id="bar-invest" style="position:absolute;top:0;height:100%;background:#9b1c1c;transition:all 0.15s ease;"></div>
-    </div>
-    <div style="display:flex;justify-content:space-between;margin-top:10px;align-items:baseline;">
-      <span style="font-size:11px;color:#6b7280;">Gasto rígido: <strong id="rigid-pct" style="color:#374151;">20.8%</strong></span>
-      <span style="font-size:12px;font-weight:700;color:#9b1c1c;">Inversión libre: <span id="invest-pct">1.7%</span></span>
-    </div>
-    <div id="warning" style="display:none;margin-top:8px;font-size:10px;color:#9b1c1c;font-style:italic;">
-      ⚠ El gasto rígido supera los ingresos. Déficit estructural inevitable.
-    </div>
-  </div>
+<div style="font-size:13px;font-weight:700;color:#111827;margin-bottom:4px;">Simulador · Espacio fiscal para inversión pública</div>
+<div style="font-size:11px;color:#9ca3af;margin-bottom:20px;">Ingresos fijos: 22.5% PIB &nbsp;·&nbsp; Ramos 28+33 + Operación: 10.3% PIB (constante)</div>
+<div style="margin-bottom:14px;">
+<div style="display:flex;justify-content:space-between;margin-bottom:4px;"><label style="font-size:11px;color:#6b7280;">Gasto en pensiones</label><strong id="pens-val" style="font-size:11px;color:#1e3a5f;">6.1% PIB</strong></div>
+<input type="range" id="pensiones" min="3.0" max="10.0" step="0.1" value="6.1" style="width:100%;accent-color:#1e3a5f;">
+</div>
+<div style="margin-bottom:20px;">
+<div style="display:flex;justify-content:space-between;margin-bottom:4px;"><label style="font-size:11px;color:#6b7280;">Costo financiero de la deuda</label><strong id="deuda-val" style="font-size:11px;color:#374151;">4.4% PIB</strong></div>
+<input type="range" id="deuda" min="1.0" max="8.0" step="0.1" value="4.4" style="width:100%;accent-color:#374151;">
+</div>
+<div style="background:#ffffff;border:1px solid #e5e7eb;border-radius:6px;padding:14px;">
+<div style="font-size:10px;color:#9ca3af;margin-bottom:8px;">Distribución del presupuesto · % del PIB</div>
+<div style="position:relative;height:26px;border-radius:4px;overflow:hidden;background:#f3f4f6;">
+<div id="bar-rigid" style="position:absolute;left:0;top:0;height:100%;background:#374151;transition:width 0.15s ease;"></div>
+<div id="bar-invest" style="position:absolute;top:0;height:100%;background:#9b1c1c;transition:all 0.15s ease;"></div>
+</div>
+<div style="display:flex;justify-content:space-between;margin-top:10px;align-items:baseline;">
+<span style="font-size:11px;color:#6b7280;">Gasto rígido: <strong id="rigid-pct" style="color:#374151;">20.8%</strong></span>
+<span style="font-size:12px;font-weight:700;color:#9b1c1c;">Inversión libre: <span id="invest-pct">1.7%</span></span>
+</div>
+<div id="warning" style="display:none;margin-top:8px;font-size:10px;color:#9b1c1c;font-style:italic;">⚠ El gasto rígido supera los ingresos. Déficit estructural inevitable.</div>
+</div>
 </div>
 
 <script>
 (function(){
-  var INGRESOS = 22.5;
-  var FIXED = 10.3;
+  var INGRESOS=22.5,FIXED=10.3;
   function update(){
-    var pens = parseFloat(document.getElementById('pensiones').value);
-    var deuda = parseFloat(document.getElementById('deuda').value);
-    document.getElementById('pens-val').textContent = pens.toFixed(1) + '% PIB';
-    document.getElementById('deuda-val').textContent = deuda.toFixed(1) + '% PIB';
-    var rigido = FIXED + pens + deuda;
-    var inversion = INGRESOS - rigido;
-    document.getElementById('rigid-pct').textContent = rigido.toFixed(1) + '%';
-    document.getElementById('invest-pct').textContent = (inversion > 0 ? inversion.toFixed(1) : '0.0') + '%';
-    var rigidPct = Math.min(100, (rigido / INGRESOS) * 100);
-    var investPct = Math.max(0, (inversion / INGRESOS) * 100);
-    document.getElementById('bar-rigid').style.width = rigidPct + '%';
-    document.getElementById('bar-invest').style.left = Math.min(rigidPct, 100) + '%';
-    document.getElementById('bar-invest').style.width = investPct + '%';
-    document.getElementById('warning').style.display = inversion < 0 ? 'block' : 'none';
+    var p=parseFloat(document.getElementById('pensiones').value);
+    var d=parseFloat(document.getElementById('deuda').value);
+    document.getElementById('pens-val').textContent=p.toFixed(1)+'% PIB';
+    document.getElementById('deuda-val').textContent=d.toFixed(1)+'% PIB';
+    var r=FIXED+p+d,inv=INGRESOS-r;
+    document.getElementById('rigid-pct').textContent=r.toFixed(1)+'%';
+    document.getElementById('invest-pct').textContent=(inv>0?inv.toFixed(1):'0.0')+'%';
+    var rp=Math.min(100,(r/INGRESOS)*100),ip=Math.max(0,(inv/INGRESOS)*100);
+    document.getElementById('bar-rigid').style.width=rp+'%';
+    document.getElementById('bar-invest').style.left=Math.min(rp,100)+'%';
+    document.getElementById('bar-invest').style.width=ip+'%';
+    document.getElementById('warning').style.display=inv<0?'block':'none';
   }
-  document.getElementById('pensiones').addEventListener('input', update);
-  document.getElementById('deuda').addEventListener('input', update);
+  document.getElementById('pensiones').addEventListener('input',update);
+  document.getElementById('deuda').addEventListener('input',update);
   update();
 })();
 </script>
