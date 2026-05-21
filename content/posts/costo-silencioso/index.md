@@ -10,6 +10,7 @@ showDate: true
 showReadingTime: true
 showWordCount: true
 showTableOfContents: true
+slug: "3517-millones-al-dia-deuda-mexico"
 ---
 
 ### $3,517 millones al día: el costo real de la deuda mexicana
