@@ -29,8 +29,7 @@ Para dimensionar el deterioro hay que recordar el punto de partida. A finales de
 El descenso comenzó en 2019 con un movimiento poco celebrado: HR Ratings, la única calificadora reconocida mexicana, bajó por primera vez en su historia la nota soberana del país que la albergaba. A partir de ahí, el descenso fue ordenado pero persistente.
 
 {{< rawhtml >}}
-<svg viewBox="0 0 720 500" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, 'Times New Roman', serif; max-width: 100%; height: auto; display: block; margin: 2rem 0; background:#ffffff; border-radius:8px;">
-  <rect width="720" height="500" fill="#ffffff"/>
+<svg viewBox="0 0 720 500" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, 'Times New Roman', serif; max-width: 100%; height: auto; display: block; margin: 2rem 0;">
   <text x="0" y="14" font-size="10" fill="#888" letter-spacing="2">FIGURA 1</text>
   <text x="0" y="38" font-size="17" font-weight="500" fill="#1a1a1a">Trayectoria de calificación soberana de México</text>
   <text x="0" y="58" font-size="13" fill="#666" font-style="italic">Las tres agencias convergieron al último piso del grado de inversión entre 2018 y 2026.</text>
@@ -107,8 +106,7 @@ El costo financiero de la deuda pública no es la calificación. Es el monto efe
 En 2018, México pagaba aproximadamente **$620 mil millones de pesos** al año por concepto de intereses, lo que equivalía a **2.5%** del PIB. Para 2024, el monto subió a **$1.15 billones** —un incremento real de 5.1% respecto al año anterior— y para 2025 alcanzó **$1.39 billones**. La SHCP proyecta para 2026 un costo de **$1.55 billones**, equivalente al **4.1%** del PIB. Es el nivel más alto desde el año 2000.
 
 {{< rawhtml >}}
-<svg viewBox="0 0 720 440" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, 'Times New Roman', serif; max-width: 100%; height: auto; display: block; margin: 2rem 0; background:#ffffff; border-radius:8px;">
-  <rect width="720" height="440" fill="#ffffff"/>
+<svg viewBox="0 0 720 440" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, 'Times New Roman', serif; max-width: 100%; height: auto; display: block; margin: 2rem 0;">
   <text x="0" y="14" font-size="10" fill="#888" letter-spacing="2">FIGURA 2</text>
   <text x="0" y="38" font-size="17" font-weight="500" fill="#1a1a1a">Costo financiero de la deuda pública como % del PIB</text>
   <text x="0" y="58" font-size="13" fill="#666" font-style="italic">La aceleración se concentra a partir de 2024 — combinación de tasas globales, mayor stock y rescate de Pemex.</text>
@@ -125,8 +123,6 @@ En 2018, México pagaba aproximadamente **$620 mil millones de pesos** al año p
     <line x1="60" y1="130" x2="700" y2="130" stroke="#eee" stroke-width="0.5" stroke-dasharray="2,3"/>
     <text x="55" y="134" text-anchor="end">4</text>
   </g>
-  <line x1="60" y1="220" x2="700" y2="220" stroke="#993C1D" stroke-width="0.6" stroke-dasharray="4,3"/>
-  <text x="700" y="216" font-size="11" font-style="italic" fill="#993C1D" text-anchor="end">nivel 2018 — 2.5% del PIB</text>
   <rect x="84" y="220" width="56" height="150" fill="#d4cab0"/>
   <text x="112" y="212" font-size="11" font-weight="500" fill="#1a1a1a" text-anchor="middle">2.5</text>
   <text x="112" y="390" font-size="11" fill="#444" text-anchor="middle">2018</text>
@@ -155,8 +151,7 @@ En 2018, México pagaba aproximadamente **$620 mil millones de pesos** al año p
   <text x="656" y="116" font-size="11" font-weight="500" fill="#993C1D" text-anchor="middle">4.1</text>
   <text x="656" y="390" font-size="11" fill="#444" text-anchor="middle">2026*</text>
   <line x1="60" y1="220" x2="700" y2="220" stroke="#1a1a1a" stroke-width="0.8" stroke-dasharray="4,3"/>
-  <rect x="60" y="207" width="140" height="14" fill="#ffffff"/>
-  <text x="65" y="217" font-size="10" font-style="italic" fill="#1a1a1a">nivel 2018 — 2.5% del PIB</text>
+  <text x="65" y="234" font-size="10" font-style="italic" fill="#1a1a1a">nivel 2018 — 2.5% del PIB</text>
   <text x="120" y="425" font-size="10" fill="#888" font-style="italic">*Cifra presupuestada en el Paquete Económico 2026. Fuentes: SHCP, Informes Trimestrales de Finanzas Públicas y Deuda Pública.</text>
 </svg>
 {{< /rawhtml >}}
@@ -191,8 +186,7 @@ Esto es importante: explica por qué las calificadoras han bajado la nota inclus
 Aquí está la pregunta que los titulares evaden: del aumento de **1.6 puntos del PIB** en el costo financiero entre 2018 y 2026, ¿cuánto se debe específicamente a la degradación de calificación y cuánto a otros factores? Una descomposición razonable, basada en las tasas implícitas reportadas por SHCP y en el comportamiento del EMBI México, arroja lo siguiente:
 
 {{< rawhtml >}}
-<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, 'Times New Roman', serif; max-width: 100%; height: auto; display: block; margin: 2rem 0; background:#ffffff; border-radius:8px;">
-  <rect width="720" height="380" fill="#ffffff"/>
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, 'Times New Roman', serif; max-width: 100%; height: auto; display: block; margin: 2rem 0;">
   <text x="0" y="14" font-size="10" fill="#888" letter-spacing="2">FIGURA 3</text>
   <text x="0" y="38" font-size="17" font-weight="500" fill="#1a1a1a">Descomposición del incremento en el costo de financiamiento, 2018–2026</text>
   <text x="0" y="58" font-size="13" fill="#666" font-style="italic">Apenas un 5% del sobrecosto es atribuible directamente a las degradaciones de calificación.</text>
@@ -235,8 +229,7 @@ Tres lecturas se derivan de esta descomposición:
 Para tener una sensación calibrada del costo, conviene comparar el EMBI mexicano con el de sus pares regionales. El EMBI mide la diferencia de rendimiento, en puntos base, entre los bonos soberanos de un país y los Treasuries estadounidenses al mismo plazo. Cien puntos base equivalen a un punto porcentual de sobrecosto anual.
 
 {{< rawhtml >}}
-<svg viewBox="0 0 720 460" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, 'Times New Roman', serif; max-width: 100%; height: auto; display: block; margin: 2rem 0; background:#ffffff; border-radius:8px;">
-  <rect width="720" height="460" fill="#ffffff"/>
+<svg viewBox="0 0 720 460" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, 'Times New Roman', serif; max-width: 100%; height: auto; display: block; margin: 2rem 0;">
   <text x="0" y="14" font-size="10" fill="#888" letter-spacing="2">FIGURA 4</text>
   <text x="0" y="38" font-size="17" font-weight="500" fill="#1a1a1a">Riesgo país en América Latina — EMBI al cierre de febrero 2026</text>
   <text x="0" y="58" font-size="13" fill="#666" font-style="italic">México paga +122 pb más que Chile por financiamiento comparable.</text>
