@@ -1,5 +1,5 @@
 ---
-title: "¿Cuánto le cuesta a los contribuyentes mexicanos la indisciplina fiscal del MORENA?"
+title: "$3,517 millones al día: el costo real de la deuda mexicana"
 date: 2026-05-20T10:00:00-06:00
 draft: false
 description: "Cuánto le ha costado realmente a México la degradación de su deuda soberana durante los últimos siete años — y por qué los titulares se equivocan al estimarlo."
@@ -12,7 +12,7 @@ showWordCount: true
 showTableOfContents: true
 ---
 
-### ¿Cuánto le cuesta a los contribuyentes mexicanos la indisciplina fiscal del MORENA?
+### $3,517 millones al día: el costo real de la deuda mexicana
 
 Cada vez que una agencia calificadora ajusta a la baja la nota soberana de México, el ciclo mediático se repite con previsibilidad de manual: titulares en mayúsculas, comparaciones con países en crisis, y muy poco esfuerzo serio por traducir el cambio en pesos contantes. Ayer, **20 de mayo de 2026, Moody's redujo la calificación de México de Baa2 a Baa3**, dejando al país a un solo escalón del límite del grado de inversión. La pregunta que casi nadie responde es la única que importa: *¿cuánto cuesta esto en dinero real?*
 
