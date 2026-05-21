@@ -14,7 +14,7 @@ showTableOfContents: true
 
 ### Cuánto le ha costado a México la degradación de su deuda soberana
 
-Cada vez que una agencia calificadora ajusta a la baja la nota soberana de México, el ciclo mediático se repite con previsibilidad de manual: titulares en mayúsculas, comparaciones con países en crisis, y muy poco esfuerzo serio por traducir el cambio en pesos contantes. Hoy mismo, **20 de mayo de 2026, Moody's redujo la calificación de México de Baa2 a Baa3**, dejando al país a un solo escalón del límite del grado de inversión. La pregunta que casi nadie responde es la única que importa: *¿cuánto cuesta esto en dinero real?*
+Cada vez que una agencia calificadora ajusta a la baja la nota soberana de México, el ciclo mediático se repite con previsibilidad de manual: titulares en mayúsculas, comparaciones con países en crisis, y muy poco esfuerzo serio por traducir el cambio en pesos contantes. Ayer, **20 de mayo de 2026, Moody's redujo la calificación de México de Baa2 a Baa3**, dejando al país a un solo escalón del límite del grado de inversión. La pregunta que casi nadie responde es la única que importa: *¿cuánto cuesta esto en dinero real?*
 
 Este artículo intenta llenar ese hueco. Reconstruye la cronología completa de degradaciones desde 2019, cuantifica el costo financiero efectivo de la deuda pública mexicana, descompone qué porcentaje de ese costo es atribuible específicamente a las rebajas de calificación, y proyecta los escenarios reales —no los retóricos— en los que México podría perder el grado de inversión.
 
@@ -47,7 +47,7 @@ El descenso comenzó en 2019 con un movimiento poco celebrado: HR Ratings, la ú
     <line x1="120" y1="330" x2="700" y2="330" stroke="#eee" stroke-width="0.5" stroke-dasharray="2,3"/>
     <text x="0" y="334" fill="#888">Ba1  ·  BB+</text>
   </g>
-  <text x="710" y="266" font-size="10" font-style="italic" fill="#666" text-anchor="end">— umbral del grado de inversión —</text>
+  <text x="120" y="298" font-size="10" font-style="italic" fill="#993C1D">— umbral del grado de inversión —</text>
   <line x1="120" y1="370" x2="700" y2="370" stroke="#444" stroke-width="0.8"/>
   <g font-size="11" fill="#444">
     <text x="120" y="390" text-anchor="middle">2018</text>
@@ -75,9 +75,9 @@ El descenso comenzó en 2019 con un movimiento poco celebrado: HR Ratings, la ú
   <circle cx="268" cy="280" r="4" fill="#2d5a3d"/>
   <circle cx="690" cy="280" r="4" fill="#2d5a3d"/>
   <g font-size="10" fill="#666" font-style="italic">
-    <text x="275" y="172">abril 2020</text>
-    <text x="428" y="222">julio 2022</text>
-    <text x="640" y="272" fill="#993C1D" font-weight="500">hoy: Baa3</text>
+    <text x="278" y="200">abr. 2020</text>
+    <text x="430" y="250">jul. 2022</text>
+    <text x="640" y="270" fill="#993C1D" font-weight="500">hoy · Baa3</text>
   </g>
   <g transform="translate(120, 440)" font-size="12" fill="#1a1a1a">
     <circle cx="6" cy="0" r="4" fill="#993C1D"/>
@@ -154,6 +154,9 @@ En 2018, México pagaba aproximadamente **$620 mil millones de pesos** al año p
   <rect x="628" y="124" width="56" height="246" fill="#993C1D" opacity="0.55"/>
   <text x="656" y="116" font-size="11" font-weight="500" fill="#993C1D" text-anchor="middle">4.1</text>
   <text x="656" y="390" font-size="11" fill="#444" text-anchor="middle">2026*</text>
+  <line x1="60" y1="220" x2="700" y2="220" stroke="#1a1a1a" stroke-width="0.8" stroke-dasharray="4,3"/>
+  <rect x="60" y="207" width="140" height="14" fill="#ffffff"/>
+  <text x="65" y="217" font-size="10" font-style="italic" fill="#1a1a1a">nivel 2018 — 2.5% del PIB</text>
   <text x="120" y="425" font-size="10" fill="#888" font-style="italic">*Cifra presupuestada en el Paquete Económico 2026. Fuentes: SHCP, Informes Trimestrales de Finanzas Públicas y Deuda Pública.</text>
 </svg>
 {{< /rawhtml >}}
@@ -310,7 +313,7 @@ Lo expuesto hasta aquí asume continuidad. El cálculo cambia radicalmente si Mo
 
 Estos números son cualitativamente distintos a los que hemos venido manejando. La diferencia entre Baa3 y Ba1 —entre el último piso del grado de inversión y el primero del especulativo— es la diferencia entre ajustes contables y ajuste macroeconómico discreto. La pérdida del grado de inversión no es un escenario lineal de "*un peldaño más*"; es un umbral con efectos no lineales en el portafolio internacional de bonos mexicanos.
 
-La buena noticia, si así puede llamarse: hoy esa pérdida no es inminente. **México conserva el grado de inversión con las ocho agencias que evalúan su deuda soberana**, según señaló la propia SHCP en su comunicado sobre la acción de Moody's de hoy. El movimiento del 20 de mayo de 2026 fue una rebaja, no una pérdida de categoría. Y Moody's cambió la perspectiva de negativa a estable, lo que en su propio lenguaje significa que no anticipa otra rebaja en los próximos 12–18 meses.
+La buena noticia, si así puede llamarse: hoy esa pérdida no es inminente. **México conserva el grado de inversión con las ocho agencias que evalúan su deuda soberana**, según señaló la propia SHCP en su comunicado sobre la acción de Moody's de ayer. El movimiento del 20 de mayo de 2026 fue una rebaja, no una pérdida de categoría. Y Moody's cambió la perspectiva de negativa a estable, lo que en su propio lenguaje significa que no anticipa otra rebaja en los próximos 12–18 meses.
 
 ---
 
