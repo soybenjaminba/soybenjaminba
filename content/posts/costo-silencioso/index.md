@@ -30,6 +30,7 @@ El descenso comenzó en 2019 con un movimiento poco celebrado: HR Ratings, la ú
 
 {{< rawhtml >}}
 <svg viewBox="0 0 720 500" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, 'Times New Roman', serif; max-width: 100%; height: auto; display: block; margin: 2rem 0;">
+  <rect x="0" y="0" width="720" height="500" fill="#fdfaf3"/>
   <text x="0" y="14" font-size="10" fill="#888" letter-spacing="2">FIGURA 1</text>
   <text x="0" y="38" font-size="17" font-weight="500" fill="#1a1a1a">Trayectoria de calificación soberana de México</text>
   <text x="0" y="58" font-size="13" fill="#666" font-style="italic">Las tres agencias convergieron al último piso del grado de inversión entre 2018 y 2026.</text>
@@ -107,6 +108,7 @@ En 2018, México pagaba aproximadamente **$620 mil millones de pesos** al año p
 
 {{< rawhtml >}}
 <svg viewBox="0 0 720 440" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, 'Times New Roman', serif; max-width: 100%; height: auto; display: block; margin: 2rem 0;">
+  <rect x="0" y="0" width="720" height="440" fill="#fdfaf3"/>
   <text x="0" y="14" font-size="10" fill="#888" letter-spacing="2">FIGURA 2</text>
   <text x="0" y="38" font-size="17" font-weight="500" fill="#1a1a1a">Costo financiero de la deuda pública como % del PIB</text>
   <text x="0" y="58" font-size="13" fill="#666" font-style="italic">La aceleración se concentra a partir de 2024 — combinación de tasas globales, mayor stock y rescate de Pemex.</text>
@@ -151,6 +153,7 @@ En 2018, México pagaba aproximadamente **$620 mil millones de pesos** al año p
   <text x="656" y="116" font-size="11" font-weight="500" fill="#993C1D" text-anchor="middle">4.1</text>
   <text x="656" y="390" font-size="11" fill="#444" text-anchor="middle">2026*</text>
   <line x1="60" y1="220" x2="700" y2="220" stroke="#1a1a1a" stroke-width="0.8" stroke-dasharray="4,3"/>
+  <rect x="62" y="224" width="146" height="14" fill="#fdfaf3"/>
   <text x="65" y="234" font-size="10" font-style="italic" fill="#1a1a1a">nivel 2018 — 2.5% del PIB</text>
   <text x="120" y="425" font-size="10" fill="#888" font-style="italic">*Cifra presupuestada en el Paquete Económico 2026. Fuentes: SHCP, Informes Trimestrales de Finanzas Públicas y Deuda Pública.</text>
 </svg>
@@ -187,6 +190,7 @@ Aquí está la pregunta que los titulares evaden: del aumento de **1.6 puntos de
 
 {{< rawhtml >}}
 <svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, 'Times New Roman', serif; max-width: 100%; height: auto; display: block; margin: 2rem 0;">
+  <rect x="0" y="0" width="720" height="380" fill="#fdfaf3"/>
   <text x="0" y="14" font-size="10" fill="#888" letter-spacing="2">FIGURA 3</text>
   <text x="0" y="38" font-size="17" font-weight="500" fill="#1a1a1a">Descomposición del incremento en el costo de financiamiento, 2018–2026</text>
   <text x="0" y="58" font-size="13" fill="#666" font-style="italic">Apenas un 5% del sobrecosto es atribuible directamente a las degradaciones de calificación.</text>
@@ -230,6 +234,7 @@ Para tener una sensación calibrada del costo, conviene comparar el EMBI mexican
 
 {{< rawhtml >}}
 <svg viewBox="0 0 720 460" xmlns="http://www.w3.org/2000/svg" style="font-family: Georgia, 'Times New Roman', serif; max-width: 100%; height: auto; display: block; margin: 2rem 0;">
+  <rect x="0" y="0" width="720" height="460" fill="#fdfaf3"/>
   <text x="0" y="14" font-size="10" fill="#888" letter-spacing="2">FIGURA 4</text>
   <text x="0" y="38" font-size="17" font-weight="500" fill="#1a1a1a">Riesgo país en América Latina — EMBI al cierre de febrero 2026</text>
   <text x="0" y="58" font-size="13" fill="#666" font-style="italic">México paga +122 pb más que Chile por financiamiento comparable.</text>
